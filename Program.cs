@@ -23,6 +23,7 @@ namespace Csharp_ReverseAndNot
                 }
                 final_number += string_number;
                 Console.WriteLine(final_number);
+                Console.ReadLine();
             }
             catch (Exception x)
             {
